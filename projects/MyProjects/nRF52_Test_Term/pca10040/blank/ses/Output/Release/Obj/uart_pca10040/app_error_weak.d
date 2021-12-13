@@ -1,6 +1,6 @@
 Output/Release/Obj/uart_pca10040/app_error_weak.o: \
- C:\D\Other\Test_nRF\DOC\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\components\libraries\util\app_error_weak.c \
- C:\D\Other\Test_nRF\DOC\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\components\libraries\util\app_error.h \
+ D:\Prog\nRF52\nRF52_Term\nRF52_Test\components\libraries\util\app_error_weak.c \
+ D:\Prog\nRF52\nRF52_Term\nRF52_Test\components\libraries\util\app_error.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stdio.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/__crossworks.h \
@@ -17,10 +17,10 @@ Output/Release/Obj/uart_pca10040/app_error_weak.o: \
  ../../../../../../modules/nrfx/mdk/nrf51_to_nrf52.h \
  ../../../../../../modules/nrfx/mdk/nrf52_name_change.h \
  ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
- C:\D\Other\Test_nRF\DOC\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\components\libraries\util\sdk_errors.h \
+ D:\Prog\nRF52\nRF52_Term\nRF52_Test\components\libraries\util\sdk_errors.h \
  ../../../../../../components/drivers_nrf/nrf_soc_nosd/nrf_error.h \
- C:\D\Other\Test_nRF\DOC\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\components\libraries\util\nordic_common.h \
- C:\D\Other\Test_nRF\DOC\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\components\libraries\util\app_error_weak.h \
+ D:\Prog\nRF52\nRF52_Term\nRF52_Test\components\libraries\util\nordic_common.h \
+ D:\Prog\nRF52\nRF52_Term\nRF52_Test\components\libraries\util\app_error_weak.h \
  ../../../../../../components/libraries/log/nrf_log.h \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/string.h \
@@ -44,6 +44,6 @@ Output/Release/Obj/uart_pca10040/app_error_weak.o: \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/libraries/log/src/nrf_log_ctrl_internal.h \
  ../../../../../../components/libraries/log/nrf_log_backend_interface.h \
- C:\D\Other\Test_nRF\DOC\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\components\libraries\util\app_util_platform.h \
- C:\D\Other\Test_nRF\DOC\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\components\libraries\util\nrf_assert.h \
+ D:\Prog\nRF52\nRF52_Term\nRF52_Test\components\libraries\util\app_util_platform.h \
+ D:\Prog\nRF52\nRF52_Term\nRF52_Test\components\libraries\util\nrf_assert.h \
  ../../../../../../components/libraries/strerror/nrf_strerror.h

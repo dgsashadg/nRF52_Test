@@ -398,8 +398,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x55 Output/Release/Obj/uart_pca10040/app_error_handler_gcc.o
  .debug_macro   0x0000000000000000       0x72 Output/Release/Obj/uart_pca10040/app_error_handler_gcc.o
  .debug_macro   0x0000000000000000       0x49 Output/Release/Obj/uart_pca10040/app_error_handler_gcc.o
- .debug_line    0x0000000000000000      0x36d Output/Release/Obj/uart_pca10040/app_error_handler_gcc.o
- .debug_str     0x0000000000000000    0x68d66 Output/Release/Obj/uart_pca10040/app_error_handler_gcc.o
+ .debug_line    0x0000000000000000      0x33a Output/Release/Obj/uart_pca10040/app_error_handler_gcc.o
+ .debug_str     0x0000000000000000    0x68cfd Output/Release/Obj/uart_pca10040/app_error_handler_gcc.o
  .comment       0x0000000000000000       0x40 Output/Release/Obj/uart_pca10040/app_error_handler_gcc.o
  .ARM.attributes
                 0x0000000000000000       0x36 Output/Release/Obj/uart_pca10040/app_error_handler_gcc.o
@@ -744,8 +744,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0xad Output/Release/Obj/uart_pca10040/nrf_assert.o
  .debug_macro   0x0000000000000000      0x16d Output/Release/Obj/uart_pca10040/nrf_assert.o
  .debug_macro   0x0000000000000000       0x49 Output/Release/Obj/uart_pca10040/nrf_assert.o
- .debug_line    0x0000000000000000      0x306 Output/Release/Obj/uart_pca10040/nrf_assert.o
- .debug_str     0x0000000000000000    0x5ed45 Output/Release/Obj/uart_pca10040/nrf_assert.o
+ .debug_line    0x0000000000000000      0x2d3 Output/Release/Obj/uart_pca10040/nrf_assert.o
+ .debug_str     0x0000000000000000    0x5ecdc Output/Release/Obj/uart_pca10040/nrf_assert.o
  .comment       0x0000000000000000       0x40 Output/Release/Obj/uart_pca10040/nrf_assert.o
  .ARM.attributes
                 0x0000000000000000       0x36 Output/Release/Obj/uart_pca10040/nrf_assert.o
@@ -856,8 +856,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x16 Output/Release/Obj/uart_pca10040/nrf_atomic.o
  .debug_macro   0x0000000000000000       0x55 Output/Release/Obj/uart_pca10040/nrf_atomic.o
  .debug_macro   0x0000000000000000       0x42 Output/Release/Obj/uart_pca10040/nrf_atomic.o
- .debug_line    0x0000000000000000      0x6c0 Output/Release/Obj/uart_pca10040/nrf_atomic.o
- .debug_str     0x0000000000000000    0x68f9f Output/Release/Obj/uart_pca10040/nrf_atomic.o
+ .debug_line    0x0000000000000000      0x68d Output/Release/Obj/uart_pca10040/nrf_atomic.o
+ .debug_str     0x0000000000000000    0x68f36 Output/Release/Obj/uart_pca10040/nrf_atomic.o
  .comment       0x0000000000000000       0x40 Output/Release/Obj/uart_pca10040/nrf_atomic.o
  .ARM.attributes
                 0x0000000000000000       0x36 Output/Release/Obj/uart_pca10040/nrf_atomic.o
@@ -952,8 +952,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x16 Output/Release/Obj/uart_pca10040/nrf_balloc.o
  .debug_macro   0x0000000000000000      0x17f Output/Release/Obj/uart_pca10040/nrf_balloc.o
  .debug_macro   0x0000000000000000       0x9a Output/Release/Obj/uart_pca10040/nrf_balloc.o
- .debug_line    0x0000000000000000      0x695 Output/Release/Obj/uart_pca10040/nrf_balloc.o
- .debug_str     0x0000000000000000    0x6c560 Output/Release/Obj/uart_pca10040/nrf_balloc.o
+ .debug_line    0x0000000000000000      0x662 Output/Release/Obj/uart_pca10040/nrf_balloc.o
+ .debug_str     0x0000000000000000    0x6c4f7 Output/Release/Obj/uart_pca10040/nrf_balloc.o
  .comment       0x0000000000000000       0x40 Output/Release/Obj/uart_pca10040/nrf_balloc.o
  .ARM.attributes
                 0x0000000000000000       0x36 Output/Release/Obj/uart_pca10040/nrf_balloc.o
@@ -1032,8 +1032,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x55 Output/Release/Obj/uart_pca10040/nrf_fprintf.o
  .debug_macro   0x0000000000000000       0x22 Output/Release/Obj/uart_pca10040/nrf_fprintf.o
  .debug_macro   0x0000000000000000       0x10 Output/Release/Obj/uart_pca10040/nrf_fprintf.o
- .debug_line    0x0000000000000000      0x3fc Output/Release/Obj/uart_pca10040/nrf_fprintf.o
- .debug_str     0x0000000000000000    0x68b30 Output/Release/Obj/uart_pca10040/nrf_fprintf.o
+ .debug_line    0x0000000000000000      0x3c9 Output/Release/Obj/uart_pca10040/nrf_fprintf.o
+ .debug_str     0x0000000000000000    0x68ac7 Output/Release/Obj/uart_pca10040/nrf_fprintf.o
  .comment       0x0000000000000000       0x40 Output/Release/Obj/uart_pca10040/nrf_fprintf.o
  .ARM.attributes
                 0x0000000000000000       0x36 Output/Release/Obj/uart_pca10040/nrf_fprintf.o
@@ -1116,8 +1116,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x55 Output/Release/Obj/uart_pca10040/nrf_fprintf_format.o
  .debug_macro   0x0000000000000000       0x22 Output/Release/Obj/uart_pca10040/nrf_fprintf_format.o
  .debug_macro   0x0000000000000000       0x10 Output/Release/Obj/uart_pca10040/nrf_fprintf_format.o
- .debug_line    0x0000000000000000      0x868 Output/Release/Obj/uart_pca10040/nrf_fprintf_format.o
- .debug_str     0x0000000000000000    0x6902a Output/Release/Obj/uart_pca10040/nrf_fprintf_format.o
+ .debug_line    0x0000000000000000      0x835 Output/Release/Obj/uart_pca10040/nrf_fprintf_format.o
+ .debug_str     0x0000000000000000    0x68fc1 Output/Release/Obj/uart_pca10040/nrf_fprintf_format.o
  .comment       0x0000000000000000       0x40 Output/Release/Obj/uart_pca10040/nrf_fprintf_format.o
  .ARM.attributes
                 0x0000000000000000       0x36 Output/Release/Obj/uart_pca10040/nrf_fprintf_format.o
@@ -1218,8 +1218,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x10 Output/Release/Obj/uart_pca10040/nrf_memobj.o
  .debug_macro   0x0000000000000000       0x22 Output/Release/Obj/uart_pca10040/nrf_memobj.o
  .debug_macro   0x0000000000000000       0x5b Output/Release/Obj/uart_pca10040/nrf_memobj.o
- .debug_line    0x0000000000000000      0x827 Output/Release/Obj/uart_pca10040/nrf_memobj.o
- .debug_str     0x0000000000000000    0x6aa79 Output/Release/Obj/uart_pca10040/nrf_memobj.o
+ .debug_line    0x0000000000000000      0x7f4 Output/Release/Obj/uart_pca10040/nrf_memobj.o
+ .debug_str     0x0000000000000000    0x6aa10 Output/Release/Obj/uart_pca10040/nrf_memobj.o
  .comment       0x0000000000000000       0x40 Output/Release/Obj/uart_pca10040/nrf_memobj.o
  .ARM.attributes
                 0x0000000000000000       0x36 Output/Release/Obj/uart_pca10040/nrf_memobj.o
@@ -1310,8 +1310,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x72 Output/Release/Obj/uart_pca10040/nrf_ringbuf.o
  .debug_macro   0x0000000000000000       0x49 Output/Release/Obj/uart_pca10040/nrf_ringbuf.o
  .debug_macro   0x0000000000000000       0x8c Output/Release/Obj/uart_pca10040/nrf_ringbuf.o
- .debug_line    0x0000000000000000      0x79d Output/Release/Obj/uart_pca10040/nrf_ringbuf.o
- .debug_str     0x0000000000000000    0x6937f Output/Release/Obj/uart_pca10040/nrf_ringbuf.o
+ .debug_line    0x0000000000000000      0x76a Output/Release/Obj/uart_pca10040/nrf_ringbuf.o
+ .debug_str     0x0000000000000000    0x69316 Output/Release/Obj/uart_pca10040/nrf_ringbuf.o
  .comment       0x0000000000000000       0x40 Output/Release/Obj/uart_pca10040/nrf_ringbuf.o
  .ARM.attributes
                 0x0000000000000000       0x36 Output/Release/Obj/uart_pca10040/nrf_ringbuf.o
@@ -1392,8 +1392,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x7ca Output/Release/Obj/uart_pca10040/nrf_strerror.o
  .debug_macro   0x0000000000000000       0x16 Output/Release/Obj/uart_pca10040/nrf_strerror.o
  .debug_macro   0x0000000000000000       0x55 Output/Release/Obj/uart_pca10040/nrf_strerror.o
- .debug_line    0x0000000000000000      0x3f2 Output/Release/Obj/uart_pca10040/nrf_strerror.o
- .debug_str     0x0000000000000000    0x68964 Output/Release/Obj/uart_pca10040/nrf_strerror.o
+ .debug_line    0x0000000000000000      0x3bf Output/Release/Obj/uart_pca10040/nrf_strerror.o
+ .debug_str     0x0000000000000000    0x688fb Output/Release/Obj/uart_pca10040/nrf_strerror.o
  .comment       0x0000000000000000       0x40 Output/Release/Obj/uart_pca10040/nrf_strerror.o
  .ARM.attributes
                 0x0000000000000000       0x36 Output/Release/Obj/uart_pca10040/nrf_strerror.o
@@ -1476,8 +1476,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x49 Output/Release/Obj/uart_pca10040/retarget.o
  .debug_macro   0x0000000000000000       0x8c Output/Release/Obj/uart_pca10040/retarget.o
  .debug_macro   0x0000000000000000       0x18 Output/Release/Obj/uart_pca10040/retarget.o
- .debug_line    0x0000000000000000      0x3f7 Output/Release/Obj/uart_pca10040/retarget.o
- .debug_str     0x0000000000000000    0x692fb Output/Release/Obj/uart_pca10040/retarget.o
+ .debug_line    0x0000000000000000      0x3c4 Output/Release/Obj/uart_pca10040/retarget.o
+ .debug_str     0x0000000000000000    0x69292 Output/Release/Obj/uart_pca10040/retarget.o
  .comment       0x0000000000000000       0x40 Output/Release/Obj/uart_pca10040/retarget.o
  .ARM.attributes
                 0x0000000000000000       0x36 Output/Release/Obj/uart_pca10040/retarget.o
@@ -1699,8 +1699,8 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x64 Output/Release/Obj/uart_pca10040/nrfx_atomic.o
  .debug_macro   0x0000000000000000       0x20 Output/Release/Obj/uart_pca10040/nrfx_atomic.o
  .debug_macro   0x0000000000000000       0x42 Output/Release/Obj/uart_pca10040/nrfx_atomic.o
- .debug_line    0x0000000000000000      0x859 Output/Release/Obj/uart_pca10040/nrfx_atomic.o
- .debug_str     0x0000000000000000    0x6bcef Output/Release/Obj/uart_pca10040/nrfx_atomic.o
+ .debug_line    0x0000000000000000      0x826 Output/Release/Obj/uart_pca10040/nrfx_atomic.o
+ .debug_str     0x0000000000000000    0x6bc86 Output/Release/Obj/uart_pca10040/nrfx_atomic.o
  .comment       0x0000000000000000       0x40 Output/Release/Obj/uart_pca10040/nrfx_atomic.o
  .ARM.attributes
                 0x0000000000000000       0x36 Output/Release/Obj/uart_pca10040/nrfx_atomic.o
@@ -5131,23 +5131,23 @@ LOAD linker stubs
  .comment       0x000000000000003f       0x40 Output/Release/Obj/uart_pca10040/system_nrf52.o
  .comment       0x000000000000003f       0x40 Output/Release/Obj/uart_pca10040/UserFunctions.o
 
-.debug_line     0x0000000000000000     0x7dd7
+.debug_line     0x0000000000000000     0x7b3d
  .debug_line    0x0000000000000000      0x21e Output/Release/Obj/uart_pca10040/thumb_crt0.o
  .debug_line    0x000000000000021e      0xb37 Output/Release/Obj/uart_pca10040/boards.o
- .debug_line    0x0000000000000d55      0x3dc Output/Release/Obj/uart_pca10040/app_error.o
- .debug_line    0x0000000000001131      0x629 Output/Release/Obj/uart_pca10040/app_error_weak.o
- .debug_line    0x000000000000175a      0x724 Output/Release/Obj/uart_pca10040/app_fifo.o
- .debug_line    0x0000000000001e7e      0xacd Output/Release/Obj/uart_pca10040/app_uart_fifo.o
- .debug_line    0x000000000000294b      0x46a Output/Release/Obj/uart_pca10040/app_util_platform.o
- .debug_line    0x0000000000002db5      0x6a0 Output/Release/Obj/uart_pca10040/nrf_drv_uart.o
- .debug_line    0x0000000000003455      0x715 Output/Release/Obj/uart_pca10040/nrfx_prs.o
- .debug_line    0x0000000000003b6a     0x17fa Output/Release/Obj/uart_pca10040/nrfx_uart.o
- .debug_line    0x0000000000005364     0x1783 Output/Release/Obj/uart_pca10040/nrfx_uarte.o
- .debug_line    0x0000000000006ae7      0x856 Output/Release/Obj/uart_pca10040/main.o
- .debug_line    0x000000000000733d       0xa9 Output/Release/Obj/uart_pca10040/ses_startup_nrf52.o
- .debug_line    0x00000000000073e6       0xcb Output/Release/Obj/uart_pca10040/ses_startup_nrf_common.o
- .debug_line    0x00000000000074b1      0x737 Output/Release/Obj/uart_pca10040/system_nrf52.o
- .debug_line    0x0000000000007be8      0x1ef Output/Release/Obj/uart_pca10040/UserFunctions.o
+ .debug_line    0x0000000000000d55      0x3a9 Output/Release/Obj/uart_pca10040/app_error.o
+ .debug_line    0x00000000000010fe      0x5f6 Output/Release/Obj/uart_pca10040/app_error_weak.o
+ .debug_line    0x00000000000016f4      0x6f1 Output/Release/Obj/uart_pca10040/app_fifo.o
+ .debug_line    0x0000000000001de5      0xa9a Output/Release/Obj/uart_pca10040/app_uart_fifo.o
+ .debug_line    0x000000000000287f      0x437 Output/Release/Obj/uart_pca10040/app_util_platform.o
+ .debug_line    0x0000000000002cb6      0x66d Output/Release/Obj/uart_pca10040/nrf_drv_uart.o
+ .debug_line    0x0000000000003323      0x6e2 Output/Release/Obj/uart_pca10040/nrfx_prs.o
+ .debug_line    0x0000000000003a05     0x1794 Output/Release/Obj/uart_pca10040/nrfx_uart.o
+ .debug_line    0x0000000000005199     0x171d Output/Release/Obj/uart_pca10040/nrfx_uarte.o
+ .debug_line    0x00000000000068b6      0x856 Output/Release/Obj/uart_pca10040/main.o
+ .debug_line    0x000000000000710c       0xa9 Output/Release/Obj/uart_pca10040/ses_startup_nrf52.o
+ .debug_line    0x00000000000071b5       0xcb Output/Release/Obj/uart_pca10040/ses_startup_nrf_common.o
+ .debug_line    0x0000000000007280      0x704 Output/Release/Obj/uart_pca10040/system_nrf52.o
+ .debug_line    0x0000000000007984      0x1b9 Output/Release/Obj/uart_pca10040/UserFunctions.o
 
 .debug_info     0x0000000000000000     0xd13b
  .debug_info    0x0000000000000000       0x22 Output/Release/Obj/uart_pca10040/thumb_crt0.o
@@ -5219,38 +5219,38 @@ LOAD linker stubs
  .debug_aranges
                 0x0000000000000480       0x30 Output/Release/Obj/uart_pca10040/UserFunctions.o
 
-.debug_str      0x0000000000000000    0x7b4ee
+.debug_str      0x0000000000000000    0x7b1f3
  .debug_str     0x0000000000000000       0xde Output/Release/Obj/uart_pca10040/thumb_crt0.o
  .debug_str     0x00000000000000de    0x6be85 Output/Release/Obj/uart_pca10040/boards.o
                                       0x6cb63 (size before relaxing)
- .debug_str     0x000000000006bf63      0x1ec Output/Release/Obj/uart_pca10040/app_error.o
-                                      0x5ed31 (size before relaxing)
- .debug_str     0x000000000006c14f     0x308c Output/Release/Obj/uart_pca10040/app_error_weak.o
-                                      0x6bbb9 (size before relaxing)
- .debug_str     0x000000000006f1db      0x23a Output/Release/Obj/uart_pca10040/app_fifo.o
-                                      0x68a51 (size before relaxing)
- .debug_str     0x000000000006f415     0x16d4 Output/Release/Obj/uart_pca10040/app_uart_fifo.o
-                                      0x6d31a (size before relaxing)
- .debug_str     0x0000000000070ae9      0x37e Output/Release/Obj/uart_pca10040/app_util_platform.o
-                                      0x5f546 (size before relaxing)
- .debug_str     0x0000000000070e67      0x4cd Output/Release/Obj/uart_pca10040/nrf_drv_uart.o
-                                      0x6ca2e (size before relaxing)
- .debug_str     0x0000000000071334      0x659 Output/Release/Obj/uart_pca10040/nrfx_prs.o
-                                      0x6e95d (size before relaxing)
- .debug_str     0x000000000007198d      0x767 Output/Release/Obj/uart_pca10040/nrfx_uart.o
-                                      0x6fb1a (size before relaxing)
- .debug_str     0x00000000000720f4      0x94e Output/Release/Obj/uart_pca10040/nrfx_uarte.o
-                                      0x6ffa0 (size before relaxing)
- .debug_str     0x0000000000072a42      0x4b8 Output/Release/Obj/uart_pca10040/main.o
+ .debug_str     0x000000000006bf63      0x183 Output/Release/Obj/uart_pca10040/app_error.o
+                                      0x5ecc8 (size before relaxing)
+ .debug_str     0x000000000006c0e6     0x3059 Output/Release/Obj/uart_pca10040/app_error_weak.o
+                                      0x6bb50 (size before relaxing)
+ .debug_str     0x000000000006f13f      0x207 Output/Release/Obj/uart_pca10040/app_fifo.o
+                                      0x689e8 (size before relaxing)
+ .debug_str     0x000000000006f346     0x16a1 Output/Release/Obj/uart_pca10040/app_uart_fifo.o
+                                      0x6d2b1 (size before relaxing)
+ .debug_str     0x00000000000709e7      0x34b Output/Release/Obj/uart_pca10040/app_util_platform.o
+                                      0x5f4dd (size before relaxing)
+ .debug_str     0x0000000000070d32      0x49a Output/Release/Obj/uart_pca10040/nrf_drv_uart.o
+                                      0x6c9c5 (size before relaxing)
+ .debug_str     0x00000000000711cc      0x626 Output/Release/Obj/uart_pca10040/nrfx_prs.o
+                                      0x6e8f4 (size before relaxing)
+ .debug_str     0x00000000000717f2      0x734 Output/Release/Obj/uart_pca10040/nrfx_uart.o
+                                      0x6fab1 (size before relaxing)
+ .debug_str     0x0000000000071f26      0x91b Output/Release/Obj/uart_pca10040/nrfx_uarte.o
+                                      0x6ff37 (size before relaxing)
+ .debug_str     0x0000000000072841      0x4b8 Output/Release/Obj/uart_pca10040/main.o
                                       0x6d1b1 (size before relaxing)
- .debug_str     0x0000000000072efa       0x6b Output/Release/Obj/uart_pca10040/ses_startup_nrf52.o
+ .debug_str     0x0000000000072cf9       0x6b Output/Release/Obj/uart_pca10040/ses_startup_nrf52.o
                                          0xf9 (size before relaxing)
- .debug_str     0x0000000000072f65       0x70 Output/Release/Obj/uart_pca10040/ses_startup_nrf_common.o
+ .debug_str     0x0000000000072d64       0x70 Output/Release/Obj/uart_pca10040/ses_startup_nrf_common.o
                                          0xfe (size before relaxing)
- .debug_str     0x0000000000072fd5     0x83b7 Output/Release/Obj/uart_pca10040/system_nrf52.o
-                                      0x6652f (size before relaxing)
- .debug_str     0x000000000007b38c      0x162 Output/Release/Obj/uart_pca10040/UserFunctions.o
-                                       0x37f8 (size before relaxing)
+ .debug_str     0x0000000000072dd4     0x8384 Output/Release/Obj/uart_pca10040/system_nrf52.o
+                                      0x664c6 (size before relaxing)
+ .debug_str     0x000000000007b158       0x9b Output/Release/Obj/uart_pca10040/UserFunctions.o
+                                       0x378c (size before relaxing)
 
 .debug_ranges   0x0000000000000000     0x12f8
  .debug_ranges  0x0000000000000000       0x90 Output/Release/Obj/uart_pca10040/thumb_crt0.o

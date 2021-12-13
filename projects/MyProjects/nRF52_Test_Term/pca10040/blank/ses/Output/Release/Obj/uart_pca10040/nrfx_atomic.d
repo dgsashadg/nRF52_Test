@@ -1,6 +1,6 @@
 Output/Release/Obj/uart_pca10040/nrfx_atomic.o: \
- C:\D\Other\Test_nRF\DOC\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\modules\nrfx\soc\nrfx_atomic.c \
- C:\D\Other\Test_nRF\DOC\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\modules\nrfx\soc\nrfx_atomic.h \
+ D:\Prog\nRF52\nRF52_Term\nRF52_Test\modules\nrfx\soc\nrfx_atomic.c \
+ D:\Prog\nRF52\nRF52_Term\nRF52_Test\modules\nrfx\soc\nrfx_atomic.h \
  ../../../../../../modules/nrfx/nrfx.h \
  ../../../../../../integration/nrfx/nrfx_config.h ../config/sdk_config.h \
  ../../../../../../modules/nrfx/drivers/nrfx_common.h \
@@ -43,4 +43,4 @@ Output/Release/Obj/uart_pca10040/nrfx_atomic.o: \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/libraries/util/sdk_resources.h \
  ../../../../../../modules/nrfx/drivers/nrfx_errors.h \
- C:\D\Other\Test_nRF\DOC\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\modules\nrfx\soc\nrfx_atomic_internal.h
+ D:\Prog\nRF52\nRF52_Term\nRF52_Test\modules\nrfx\soc\nrfx_atomic_internal.h

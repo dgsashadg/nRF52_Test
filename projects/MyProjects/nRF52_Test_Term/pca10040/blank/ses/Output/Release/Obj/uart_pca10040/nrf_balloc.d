@@ -1,5 +1,5 @@
 Output/Release/Obj/uart_pca10040/nrf_balloc.o: \
- C:\D\Other\Test_nRF\DOC\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\components\libraries\balloc\nrf_balloc.c \
+ D:\Prog\nRF52\nRF52_Term\nRF52_Test\components\libraries\balloc\nrf_balloc.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.68/include/stdbool.h \
@@ -29,7 +29,7 @@ Output/Release/Obj/uart_pca10040/nrf_balloc.o: \
  ../../../../../../components/libraries/util/nrf_assert.h \
  ../../../../../../components/libraries/experimental_section_vars/nrf_section.h \
  ../../../../../../components/libraries/util/nordic_common.h \
- C:\D\Other\Test_nRF\DOC\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\components\libraries\balloc\nrf_balloc.h \
+ D:\Prog\nRF52\nRF52_Term\nRF52_Test\components\libraries\balloc\nrf_balloc.h \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/libraries/util/app_util_platform.h \
  ../../../../../../components/libraries/util/app_error.h \

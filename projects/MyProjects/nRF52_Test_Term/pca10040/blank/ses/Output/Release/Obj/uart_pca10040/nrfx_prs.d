@@ -1,5 +1,5 @@
 Output/Release/Obj/uart_pca10040/nrfx_prs.o: \
- C:\D\Other\Test_nRF\DOC\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\modules\nrfx\drivers\src\prs\nrfx_prs.c \
+ D:\Prog\nRF52\nRF52_Term\nRF52_Test\modules\nrfx\drivers\src\prs\nrfx_prs.c \
  ../../../../../../modules/nrfx/nrfx.h \
  ../../../../../../integration/nrfx/nrfx_config.h ../config/sdk_config.h \
  ../../../../../../modules/nrfx/drivers/nrfx_common.h \
@@ -42,7 +42,7 @@ Output/Release/Obj/uart_pca10040/nrfx_prs.o: \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/libraries/util/sdk_resources.h \
  ../../../../../../modules/nrfx/drivers/nrfx_errors.h \
- C:\D\Other\Test_nRF\DOC\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\modules\nrfx\drivers\src\prs\nrfx_prs.h \
+ D:\Prog\nRF52\nRF52_Term\nRF52_Test\modules\nrfx\drivers\src\prs\nrfx_prs.h \
  ../../../../../../integration/nrfx/nrfx_log.h \
  ../../../../../../components/libraries/log/nrf_log.h \
  ../../../../../../components/libraries/util/sdk_common.h \

@@ -1,6 +1,6 @@
 Output/Release/Obj/uart_pca10040/nrf_drv_uart.o: \
- C:\D\Other\Test_nRF\DOC\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\integration\nrfx\legacy\nrf_drv_uart.c \
- C:\D\Other\Test_nRF\DOC\DeviceDownload\nRF5_SDK_17.1.0_ddde560\nRF5_SDK_17.1.0_ddde560\integration\nrfx\legacy\nrf_drv_uart.h \
+ D:\Prog\nRF52\nRF52_Term\nRF52_Test\integration\nrfx\legacy\nrf_drv_uart.c \
+ D:\Prog\nRF52\nRF52_Term\nRF52_Test\integration\nrfx\legacy\nrf_drv_uart.h \
  ../../../../../../modules/nrfx/nrfx.h \
  ../../../../../../integration/nrfx/nrfx_config.h ../config/sdk_config.h \
  ../../../../../../modules/nrfx/drivers/nrfx_common.h \
